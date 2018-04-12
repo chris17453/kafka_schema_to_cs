@@ -1,0 +1,13 @@
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/kafka_json_parser.exe.config
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/kafka_json_parser.exe
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/kafka_json_parser.pdb
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/DotLiquid.xml
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/Newtonsoft.Json.xml
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/NJsonSchema.xml
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/NJsonSchema.CodeGeneration.xml
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/NJsonSchema.CodeGeneration.CSharp.xml
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/bin/Debug/it/DotLiquid.resources.dll
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/obj/Debug/kafka_schma_to_cs.csprojResolveAssemblyReference.cache
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/obj/Debug/kafka_schma_to_cs.csproj.CoreCompileInputs.cache
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/obj/Debug/kafka_json_parser.exe
+/home/nd/repos/kafka_schema_to_cs/kafka_schema_to_cs/obj/Debug/kafka_json_parser.pdb
